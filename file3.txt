@@ -1,0 +1,3 @@
+this is an duplicate txt file
+this text is created using vi command.
+this text is edited once again
